@@ -1,0 +1,2 @@
+class ExcessValue(Exception):
+    pass

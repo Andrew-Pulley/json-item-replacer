@@ -1,0 +1,289 @@
+{
+   "depth":0,
+   "links":[
+      {
+         "depth":1,
+         "type":"link",
+         "title":"Dashboard",
+         "url":"/office/index"
+      },
+      {
+         "depth":1,
+         "type":"category",
+         "title":"Quick Links",
+         "links":[
+            {
+               "depth":2,
+               "type":"link",
+               "title":"Customer Connect",
+               "url":"/office/customerconnect"
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Royalties",
+               "url":"/office/royalties"
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Company",
+               "url":"/office/tree"
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Parties",
+               "url":"/office/myparties"
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Profile",
+               "url":"/office/myprofile"
+            }
+         ]
+      },
+      {
+         "depth":1,
+         "type":"category",
+         "title":"My Business",
+         "links":[
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Royalties & Compensation",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"My Royalties",
+                     "url":"/office/royalties"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Incentive Trip",
+                     "url":"/office/trip"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Accomplishments",
+                     "url":"/office/accomplishments"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Royalty Rules",
+                     "url":"/office/royaltyrules"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"My Taxes",
+                     "url":"/office/mytaxes"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Y-Cash Ledger",
+                     "url":"/office/ycashledger"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Reporting & Supplies",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"My Company",
+                     "url":"/office/tree"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Customer Connect",
+                     "url":"/office/customerconnect"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Team Talk",
+                     "url":"/office/teamtalk"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Business Supplies",
+                     "url":"/office/bizsupply"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Inventory Watchlist",
+                     "url":"/products/inventorywatchlist"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Training & Reference",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Training Center",
+                     "url":"/office/trainingvideos"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Current Perks",
+                     "url":"/office/presenterperks"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Fast Start",
+                     "url":"/office/faststart"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Convention",
+                     "url":"/office/convention"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Corporate News",
+                     "url":"/office/corporate_news"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Catalog Download",
+                     "url":"https://younique-dfiles.s3-us-west-2.amazonaws.com/s3fs-public/Younique_Product_Catalog_2018_09_en_US.pdf"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Logo Pack",
+                     "url":"https://younique.app.box.com/v/BrandUsageGuide"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Social Assets",
+                     "url":"https://younique.app.box.com/v/YouniqueInstagram"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Brand Usage Guidelines",
+                     "url":"https://younique-dfiles.s3-us-west-2.amazonaws.com/s3fs-public/brandUsageGuidelines_en.pdf"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Looks",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Looks I've Created",
+                     "url":"/looks/created"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Browse Looks",
+                     "url":"/looks/browse"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Looks I've Loved",
+                     "url":"/looks/loved"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Upload a Look",
+                     "url":"/looks/newlook"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "depth":1,
+         "type":"category",
+         "title":"My Account",
+         "links":[
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Profile",
+               "url":"/office/myprofile"
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Social Profiles",
+               "url":"/office/profiles"
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Social Sites",
+               "url":"/office/socialmedia"
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Site Settings",
+               "url":"/office/sitesettings"
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Subscriptions",
+               "url":"/office/mysubscriptions"
+            }
+         ]
+      },
+      {
+         "depth":1,
+         "type":"category",
+         "title":"Parties",
+         "links":[
+            {
+               "depth":2,
+               "type":"link",
+               "title":"My Parties",
+               "url":"/office/myparties"
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"Schedule a New Party",
+               "url":"/office/newparty"
+            }
+         ]
+      },
+      {
+         "depth":1,
+         "type":"link",
+         "title":"Foundation Donations",
+         "url":"/office/foundationdonation"
+      }
+   ]
+}

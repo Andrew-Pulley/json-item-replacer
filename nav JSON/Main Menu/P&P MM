@@ -1,0 +1,494 @@
+{
+   "depth":0,
+   "links":[
+      {
+         "depth":1,
+         "type":"category",
+         "title":"Shop",
+         "links":[
+            {
+               "depth":2,
+               "type":"link",
+               "title":"Kudos",
+               "url":"/products/view/US-91519-01"
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Makeup",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"category",
+                     "title":"Eyes",
+                     "links":[
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Lash Enhancer",
+                           "url":"/category/lashes"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Brow",
+                           "url":"/category/brow"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Eyeliner",
+                           "url":"/category/eyeliner"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Shadows",
+                           "url":"/category/eye-shadow"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Eye Primer",
+                           "url":"/category/eye-primer"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Fillable Palettes",
+                           "url":"/category/palettes"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Lash Sets",
+                           "url":"/category/lash-sets"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Eye Sets",
+                           "url":"/category/eye-sets"
+                        }
+                     ]
+                  },
+                  {
+                     "depth":3,
+                     "type":"category",
+                     "title":"Lips",
+                     "links":[
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Lipstick",
+                           "url":"/category/lipstick"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Lip Gloss",
+                           "url":"/category/lip-gloss"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Lip Care",
+                           "url":"/category/lip-care"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Lip Liner",
+                           "url":"/category/lip-liner"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Lip Stain",
+                           "url":"/category/lip-stain"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Lip Sets",
+                           "url":"/category/lip-sets"
+                        }
+                     ]
+                  },
+                  {
+                     "depth":3,
+                     "type":"category",
+                     "title":"Face",
+                     "links":[
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Foundation",
+                           "url":"/category/foundation"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"BB Cream",
+                           "url":"/category/bb-cream"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Highlight & Contour",
+                           "url":"/category/highlight-contour"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Face Primer",
+                           "url":"/category/face-primer"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Bronze & Blusher",
+                           "url":"/category/bronzer-blusher"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Setting",
+                           "url":"/category/setting"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Concealer",
+                           "url":"/category/concealer"
+                        },
+                        {
+                           "depth":4,
+                           "type":"link",
+                           "title":"Face Sets",
+                           "url":"/category/face-sets"
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Skincare",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Cleansers",
+                     "url":"/category/cleansers"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Masks",
+                     "url":"/category/masks"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Moisturizers",
+                     "url":"/category/moisturizers"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Toners",
+                     "url":"/category/toners"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Serums",
+                     "url":"/category/serums"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Fragrance",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Signature Scents",
+                     "url":"/category/signature-scents"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Roller Ball",
+                     "url":"/category/roller-ball"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Fragrance Set",
+                     "url":"/category/fragrance-set"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Tools",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Eye Brushes",
+                     "url":"/category/eye-brushes"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Lip Brushes",
+                     "url":"/category/lip-brushes"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Face Brushes",
+                     "url":"/category/face-brushes"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Brush Sets",
+                     "url":"/category/brush-sets"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Fillable Palettes",
+                     "url":"/category/palettes"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Sponges & Applicators",
+                     "url":"/category/application"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"More Tools",
+                     "url":"/category/more-tools"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Collections & Sets",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Collections",
+                     "url":"/category/collections"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Face Sets",
+                     "url":"/category/face-sets"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Lip Sets",
+                     "url":"/category/lip-sets"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Eye Sets",
+                     "url":"/category/eye-sets"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Brush Sets",
+                     "url":"/category/brush-sets"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"link",
+               "title":"Younique Prestige",
+               "url":"/story/youniqueprestige"
+            }
+         ]
+      },
+      {
+         "depth":1,
+         "type":"category",
+         "title":"Community",
+         "links":[
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Looks",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Browse Looks",
+                     "url":"/looks/browse"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Upload a Look",
+                     "url":"/looks/newlook"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Looks I've Created",
+                     "url":"/looks/created"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Looks I've Loved",
+                     "url":"/looks/loved"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Join",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Join Now",
+                     "url":"/business/presenterinfo"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Find a Sponsor",
+                     "url":"/business/presentermap"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Presenter Kit",
+                     "url":"/corporate/kit"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Register",
+                     "url":"/register"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Incentive Trip",
+                     "url":"/business/tripincentive"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Rising Stars",
+                     "url":"/business/leaderboards"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Triple Digits Club",
+                     "url":"/business/founderscircle"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"Party",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"What is a Party?",
+                     "url":"/business/party"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"My Parties",
+                     "url":"/office/myparties"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Schedule a New Party",
+                     "url":"/office/newparty"
+                  }
+               ]
+            },
+            {
+               "depth":2,
+               "type":"category",
+               "title":"About",
+               "links":[
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"About Me",
+                     "url":"/presenter/aboutme"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Contact Me",
+                     "url":"/presenter/contactme"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"About Younique",
+                     "url":"/business/about"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Meet the Founders",
+                     "url":"/business/founders"
+                  },
+                  {
+                     "depth":3,
+                     "type":"link",
+                     "title":"Press",
+                     "url":"/business/press"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "depth":1,
+         "type":"category",
+         "title":"Help",
+         "links":[
+            {
+               "depth":2,
+               "type":"link",
+               "title":"Support",
+               "url":"/business/support"
+            }
+         ]
+      }
+   ]
+}

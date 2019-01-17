@@ -1,2 +1,0 @@
-class ExcessValue(Exception):
-    pass
